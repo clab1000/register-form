@@ -1,2 +1,2 @@
-# register-form
-Small registration form for website.
+# Registration-form-D19
+Registartion form in HTML and CSS
